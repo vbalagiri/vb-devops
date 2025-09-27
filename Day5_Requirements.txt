@@ -1,0 +1,19 @@
+1. Convert a list of server IPs into a tuple and explain why immutability is preferred.
+2. Given a dictionary of {service: port}, convert it into a  string.
+3. Parse a string "80,443,22" into a list of integers.
+   Expected: [80, 443, 22]
+4. Convert CPU usage from string "78.5" to a float and compare with a threshold (e.g., 80).
+5. Given a list of pod names, convert them into a set to remove duplicates.
+6. Convert a YAML-like dictionary { "server": "app01", "port": "8080" } so that port becomes an integer.
+7. Given a list of strings ["10", "20", "30"], convert all items to integers and calculate the sum.
+8. Convert a boolean string "True"/"False" into a Python boolean.
+9. Access the first 3 server IPs from a list using slicing.
+   Example: ["10.0.0.1","10.0.0.2","10.0.0.3","10.0.0.4"][:3]
+10. Extract the last 2 pod names from a list of pods.
+    Example: pods[-2:]
+11. From a log message string "ERROR: Pod crashed at 10:00", slice to get only "ERROR".
+12. Extract every alternate and reverse service name  from a list of services.
+    services = ["nginx", "mysql", "redis", "kafka", "elasticsearch", "prometheus", "grafana"]
+13. From a string log "2025-09-08T10:20:30Z", slice out only the date "2025-09-08".
+14. Given a list of ports [22, 80, 443, 3306, 8080], slice the middle three ports.
+15. From a long command string "kubectl get pods --namespace=prod", slice to extract only "get pods".

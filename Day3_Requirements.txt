@@ -1,0 +1,25 @@
+1. Use the arithmetic operators to calculate the sum, average CPU load given cpu_loads = [40, 60, 80].
+2. Use the modulus operator % to check if a build number is even or odd (build_id % 2).
+3. Use the floor division // to divide total log lines into chunks of 1000 for processing.
+4. Use comparison operators to check if disk usage is above 80%.
+5. Use logical operators (and, or, not) to check if (CPU > 70 and Memory > 80).
+6 . Use assignment operators (+=) to incrementally add network packet counts.
+7. Use the identity operator is to check if two service configs reference the same object in memory.
+8. Use the membership operator in to check if "nginx" is in running_services = ["nginx","mysql","redis"].
+9. Simulate auto-scaling: if current_replicas < desired_replicas, scale up by 1.
+10. Use ternary operator: status = "ALERT" if cpu > 90 else "OK".
+11. Combine multiple comparison operators: 50 < cpu < 90.
+12. Use not in to ensure "debug" flag is not present in prod settings.
+13. Use augmented assignment (*=) to double retry timeout every failed attempt.
+16. Write a program that prompts the user to enter their height and weight, and then calculates and prints their body mass index (BMI).
+ 
+17. WAP that calculates 
+ a): Addition of two numbers.
+ b): Average of three values. 
+  
+18. WAP that prompts the user to enter the radius of a circle and calculate then print the area and circumference of the circle.
+Area = 3.14 * (radius * radius)
+Perimeter = 2 * 3.14 * radius
+
+19. WAP that prompts the user to enter the length and width of a rectangle, and then calculates and prints the area and perimeter of the rectangle.
+Area = Length * width Perimeter = 2(Length + width)		 

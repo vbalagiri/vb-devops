@@ -1,0 +1,9 @@
+1. WAP that takes server name and IP as input and prints: "Server {name} is running at {IP}".
+2. Format a string to print CPU usage, Memory usage, and Disk usage in a tabular way.
+3. Given a username and environment (dev/stage/prod), format a string to print "Deploying app as {user} on {env}".
+4. Use f-strings to format log messages: "Timestamp: {time}, Status: {status}, Response Time: {ms} ms".
+5. WAP that prints the top 3 running processes with aligned columns (PID, Name, CPU%).
+6. WAP that displays API status: "Endpoint {url} returned {status_code} in {time:.2f} seconds".
+7. WAP that aligns log levels (INFO, WARNING, ERROR) into a formatted column view.
+8. WAP that takes deployment duration and formats it as "Deployment took {minutes}m {seconds}s".
+9. WAP that prints disk usage with 2 decimal precision: "Disk used: {used:.2f} GB / {total:.2f} GB".

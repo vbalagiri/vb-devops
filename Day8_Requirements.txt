@@ -1,0 +1,10 @@
+1.Automate checking status of 3 websites using loops.
+2.Find the least CPU usage server from a list of monitored servers.
+3.Use nested loops to print a multiplication table.
+4.Find the max CPU usage server from a list of monitored servers.
+5.Write a script using a loop to monitor disk usage every 5 seconds until it goes below 80%.
+6.Use nested loops to generate all possible combinations of username and environment (dev, stage, prod).
+7.Use a for loop to read a list of log file names and print only those ending with .log.
+8.Use a while loop to retry connecting to a server until it succeeds (simulate 3 retries).
+9.Use nested loops to simulate a matrix ping test between multiple servers.
+10.Iterate through a list of Docker containers and print "Running" or "Stopped" status.

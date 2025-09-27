@@ -1,0 +1,15 @@
+1.Write a Python script to store server IP addresses in a list and demonstrate adding/removing servers dynamically.
+
+2.Store AWS region codes ("us-east-1", "ap-south-1", etc.) in a tuple and explain why a tuple is a better choice than a list here.
+
+3.Create a list of log file names (app.log, db.log, sys.log) and use list comprehension to filter only .log files containing "app”
+
+4.Write a script to maintain CI/CD pipeline steps in a tuple (fixed sequence) and demonstrate why it should not be changed.
+
+5.Create a list of container names (["nginx", "redis", "mysql"]). Use pop() to simulate stopping a container.
+
+6.Convert a list of Kubernetes pod names into a tuple to ensure they are read-only. Demonstrate with tuple() conversion.
+
+7.Using list comprehension, extract all servers with CPU usage > 80% from a given list of dictionaries.
+
+8.Compare memory size of the same dataset stored as a list and a tuple using sys.getsizeof().

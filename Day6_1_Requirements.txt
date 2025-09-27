@@ -1,0 +1,15 @@
+1.Check if a filename ends with .log using .endswith().
+2.Convert environment variable names to uppercase using .upper().
+3.Replace "ERROR" with "WARN" in logs using .replace().
+4.Split "nginx:running,mysql:stopped" into key-value pairs.
+5.Validate if a user input string is numeric using .isdigit().
+6.Strip whitespace from config values.
+7.Use .startswith("http") to validate API endpoints.
+8.Remove special characters from "DB@server#1!".
+9.Count how many times "restart" appears in a deployment log.
+10.Use .isalnum() to check if a container name is valid ("nginx01").
+11.Validate log line length with len(log).
+12. Extract domain from URL "https://devops.org/docs" using .split("/")
+13. Use .partition(":") to split "nginx:running" into service & status.
+14. Use .find() to get the index of "error" in a log string.
+15.Use .join() to combine a list of IPs into "10.0.0.1,10.0.0.2,10.0.0.3

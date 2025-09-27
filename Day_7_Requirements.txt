@@ -1,0 +1,11 @@
+1.WAP that takes a server’s CPU usage (0–100) as input and prints status: 90–100=Critical, 80–89=High, 70–79=Warning, 60–69=Moderate, below 60=Normal.
+2.WAP that takes the number of running containers as input and prints whether it is odd or even.
+3.WAP that calculates the disk usage percentage of a server and prints status: <18.5=Low usage, 18.5–24.9=Normal usage, 25–29.9=High usage, ≥30=Critical (simulate BMI logic).
+4.WAP that takes a deployment status code (200, 400, 500) and prints whether deployment was successful, failed, or needs investigation.
+5.WAP that checks if a service is active and prints "Running" if True else "Stopped".
+6.WAP that accepts a port number and prints whether it is in the well-known range (0–1023), registered range (1024–49151), or dynamic range (49152–65535).
+7.WAP that takes RAM usage (%) and prints whether memory is "Healthy", "Warning", or "Critical"
+8.WAP that takes a file extension and prints "Log file", "Config file", or "Other file".
+9.WAP that takes a HTTP status code and prints: 200=Success, 400=Client Error, 500=Server Error.
+10.WAP that accepts a git branch name and prints whether it is "main", "develop", or "feature branch".
+11.WAP that takes number of active users and prints "Low Load", "Medium Load", "High Load"

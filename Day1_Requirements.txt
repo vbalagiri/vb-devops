@@ -1,0 +1,9 @@
+1.How do you check the installed Python version using shell & Python:
+2.In Shell, print the current username (whoami) , In Python, use os.getlogin().
+3.Use Shell to display the current working directory (pwd), Write a Python script using os.getcwd().
+4.In Shell, to get cpu count we use nproc, Write a script using psutil.
+5.In Shell, print system uptime (uptime), In Python, use psutil.boot_time().
+6.List all environment variables in Shell (printenv), Do the same in Python using os.environ.
+7.Write a Shell script to check memory usage (free -h), Write the Python equivalent using psutil.virtual_memory().
+8.In Shell, display the date and time (date), In Python, use datetime.now().
+9.Run a Shell command (ls -l) from Python using the subprocess module.
