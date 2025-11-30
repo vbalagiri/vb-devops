@@ -15,3 +15,5 @@
 8.Compare memory size of the same dataset stored as a list and a tuple using sys.getsizeof().
 
 9.Write a script to demonstrate the immutability of tuples by attempting to change an element and catching the resulting error.
+
+10.Write a script to demonstrate the immutability of tuples by attempting to change an element and catching the resulting error.
